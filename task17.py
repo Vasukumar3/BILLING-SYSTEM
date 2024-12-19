@@ -68,3 +68,4 @@ for i in range(len(items)):
             print(75*"-")
             print(50*" ", "Thanks for visiting")
             print(75*"-")
+            print("thank you vist again")
